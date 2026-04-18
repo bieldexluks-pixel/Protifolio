@@ -40,7 +40,7 @@ A análise foi construída com foco em **tomada de decisão baseada em dados**, 
 
 ##  Dashboard
 
-<img src="<img width="1511" height="700" alt="newplot" src="https://github.com/user-attachments/assets/7620e960-81f6-4f0f-a193-e5365e397d61" />" width="100%">
+<img width="1511" height="700" alt="newplot" src="https://github.com/user-attachments/assets/7620e960-81f6-4f0f-a193-e5365e397d61" /> 
 
 ---
 
